@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Redux,Axios**
 - 🌱 I’m currently learning **React.js**
 
-- 🤞💕 Portfolio ([https://appleamey.netlify.app/](https://ameyzportfolio.netlify.app/))
+- 🤞💕 Portfolio ([(https://ameyzportfolio.netlify.app/)](https://ameyzportfolio.netlify.app/))
   
 - 🤝 I’m looking for help with [React] (https://appleamey.netlify.app/)
 
